@@ -1,0 +1,6 @@
+int a;
+for a in 1...100 then{
+  a = a + 10;
+}
+
+print a;
